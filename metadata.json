@@ -1,0 +1,6 @@
+{
+  "name": "KOCOM 코콤",
+  "description": "코콤 공식 웹사이트 - 스마트홈, 홈IoT, 비디오폰, 스마트도어락, CCTV, 스마트 LED 조명 전문기업",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
